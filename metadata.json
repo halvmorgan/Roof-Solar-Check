@@ -1,0 +1,6 @@
+{
+  "name": "SolarScope AI - Roof Solar Readiness Lead Funnel",
+  "description": "High-converting AI photo-analysis lead-generation funnel for solar installation companies, powered by Gemini multimodal vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
